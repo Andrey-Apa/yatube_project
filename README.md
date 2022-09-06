@@ -1,5 +1,5 @@
 # __Yatube__
-## _The social network for bloggers_/_Социальная сеть для блоггеров_
+## _The social network for bloggers_/_Социальная сеть для блогеров_
 
 ## _Discription_/_Описание_
 __Yatube__ -is a convenient social network for publishing personal diaries and articles/это удобная социальная сеть для публикации личных дневников и статей.
@@ -13,7 +13,7 @@ __Yatube__ -is a convenient social network for publishing personal diaries and a
 - Публикация собственных текстов и просмотр других
 - Оценка и комментарии других публикаций
 - Управление собственной странией, блокировка спаммеров
-- Доступ к цсообществу блоггеров
+- Доступ к цсообществу блогеров
 
 ## Tech/Технологии
 
@@ -49,4 +49,3 @@ python manage.py runserver
 MIT
 
 **Free Software, Not for commercial use!**
-
